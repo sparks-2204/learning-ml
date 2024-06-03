@@ -1,0 +1,3 @@
+https://colab.research.google.com/github/ageron/handson-ml3/blob/main/index.ipynb#scrollTo=Qu8W7jyMSBIS
+
+This is a record to my journey at learning machine learning and artificial intelligence
